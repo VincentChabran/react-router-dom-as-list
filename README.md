@@ -1,6 +1,8 @@
 # React + TypeScript + Vite
 
-Défilement des composants
+Style de page en mode site de vite, ou encore sit react router dom
+
+Architecture avec pour défilement des composants.
 Une bar latérale gauche
 Un contenu au milieu
 Une bar latérale droite
@@ -27,7 +29,7 @@ return (
 
 ## React router dom
 
-Déclaration des routes grâce à une liste
+Déclaration des routes grâce à une liste (mise à jours react router v6.4)
 
 ```ts
 export const router = createBrowserRouter([
